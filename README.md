@@ -23,7 +23,7 @@ This Output Method does just that and lets the user know the link was copied. Th
 #### Create New Email
 This will open your default email provider and prepopulate fields with the link.
 
-Button Style
+### Button Style
 ![Screenshot](https://raw.githubusercontent.com/balexbyrd/LinkUp/main/img/buttonStyle.PNG)
 
 These settings are self explanetory using normal CSS inputs. For icons, I'm leveraging the icons already being brought into the dashboard from Qlik's [Leonardo UI](https://qlik-oss.github.io/leonardo-ui/icons.html)
